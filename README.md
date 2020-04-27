@@ -7,7 +7,7 @@ React JS Fundamentals Course (ver 2019)
 
 This cloning project was progressed with NomadCoders Academy
 
-NomadCoders_react_movieApp(https://academy.nomadcoders.co/p/reactjs-fundamentals)
+[NomadCoders_react_movieApp](https://academy.nomadcoders.co/p/reactjs-fundamentals)
 
 # Project result
 
